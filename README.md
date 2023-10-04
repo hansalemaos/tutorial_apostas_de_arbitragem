@@ -1,0 +1,2 @@
+# tutorial_apostas_de_arbitragem
+algoritmo para calcular rapidamente
